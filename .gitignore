@@ -3,3 +3,4 @@ venv/
 .idea/
 __pycache__/
 token_drive_v3.pickle
+client_secret.json
